@@ -2,7 +2,7 @@
 ---
 ## About Me ##
 - Location: Minsk, Belarus
-- Phone: +375 29 839 61 79
+- Phone: +375 29 839 61 00
 - Email: kap.kande@gmail.com
 - GitHub: [kapkande](https://github.com/kapkande)
 ---
